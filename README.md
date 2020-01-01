@@ -8,4 +8,4 @@
 # how to install on Termux
 - pkg install python
 - pkg install git
-- git clone https://github.com/EvCf1703/ipxml
+- git clone https://github.com/Suryapardana/ipxml
