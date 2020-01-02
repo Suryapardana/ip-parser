@@ -18,9 +18,9 @@ def angga():
 	print("\033[96m    $$ |                $$ |                              ")
 	print("\033[96m    $$ |                $$ |                              ")
 	print("\033[96m    \__|                \__|                              ")
-	print("\033[33m\nCoded by : Angga Surya Pardana (github.com/EvCf1703)\n")
+	print("\033[33m\nCoded by : Angga Surya Pardana (github.com/Suryapardana)\n")
 	print("\033[96m=" * 100)
-	hi = input("\n\033[97m\nEnter your IP : \033[31m")
+	hi = input("\n\033[97m\nTap To Enter")
 time.sleep(2)
 
 os.system("clear")
