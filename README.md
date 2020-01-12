@@ -5,7 +5,3 @@
 - and this has been tested if there are bugs, please contact
 - tools using python3
 
-# how to install on Termux
-- pkg install python
-- pkg install git
-- git clone https://github.com/Suryapardana/ipxml
