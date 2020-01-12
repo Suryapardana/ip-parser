@@ -36,7 +36,7 @@ def angga():
 	print("\033[96m    \__|                \__|                              ")
 	print("\033[33m\nCoded by : Angga Surya Pardana (github.com/Suryapardana)\n")
 	print("\033[96m\n\t\t\t\t\tv2.0\n")
-
+angga()
 ip = args.target
 
 api = "http://ip-api.com/json/"
