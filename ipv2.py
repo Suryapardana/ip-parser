@@ -19,7 +19,7 @@ yellow = '\033[93m'
 lgreen = '\033[92m'
 clear = '\033[0m'
 bold = '\033[01m'
-cyan = '\033[96''
+cyan = '\033[96'
 
 def angga():
 	print("\033[96m=" * 100)
