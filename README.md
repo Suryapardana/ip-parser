@@ -5,3 +5,5 @@
 - and this has been tested if there are bugs, please contact
 - tools using python3
 
+#LICENSE
+https://github.com/Suryapardana/ip-parser/issues/3#issue-548522450
